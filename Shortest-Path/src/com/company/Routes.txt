@@ -1,0 +1,7 @@
+Smolyan Plovdiv 88
+Smolyan Dospat 50
+Plovdiv StaraZagora 100
+Plovdiv Sofia 150
+StaraZagora Varna 50
+StaraZagora Burgas 60
+Varna Burgas 30
