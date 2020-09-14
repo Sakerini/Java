@@ -1,7 +1,7 @@
 # Given a non-negative integer numRows, generate the first numRows of Pascal's triangle.
 
 # Example 1:
-'''
+```
 Input: 5
 Output:
 [
@@ -11,4 +11,4 @@ Output:
   [1,3,3,1],
  [1,4,6,4,1]
 ]
-'''
+```
